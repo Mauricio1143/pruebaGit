@@ -1,2 +1,3 @@
 Nombre de usuario
 correo electrónico
+fecha de nacimiento
